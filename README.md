@@ -189,7 +189,7 @@ Path found: ['A', 'E', 'D', 'G']
 
 ### Output:
 
-![alt text](image.png)
+![Uploading image.png…]()
 
 ### Result:
 
