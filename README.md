@@ -189,7 +189,7 @@ Path found: ['A', 'E', 'D', 'G']
 
 ### Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f4d80988-abe9-46b9-9723-a4aaf6f57599)
 
 ### Result:
 
